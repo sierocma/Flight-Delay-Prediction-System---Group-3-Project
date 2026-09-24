@@ -5,6 +5,8 @@ We plan to use historical flight data to identify patterns that may help predict
 Our initial model will focus on predicting whether a flight will arrive at least 15 minutes late. The U.S. Department of Transportation’s Bureau of Transportation Statistics defines a delayed flight as one that arrives 15 or more minutes after its scheduled arrival time [1]​​. 
 The model may later be expanded to predict the expected delay in minutes if time and data availability allow. 
 
+https://static.tnn.in/thumb/msid-108945166,thumbsize-809063,width-1280,height-720,resizemode-75/108945166.jpg?quality=100
+
 # Code examples exemplifying how to execute the code
 
 
